@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Upadhyay</h1>
-<h3 align="center">This is a MEAN (MongoDB, Express.js, Angular, Node.js) stack development project that serves as a starting point for building web applications. It includes a basic project structure and configuration to get you up and running quickly.</h3>
+<h1 align="left">Hi 👋, I'm Abhishek Upadhyay</h1>
+<h3 align="left">This is a MEAN (MongoDB, Express.js, Angular, Node.js) stack development project that serves as a starting point for building web applications. It includes a basic project structure and configuration to get you up and running quickly.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tweniee&label=Profile%20views&color=0e75b6&style=flat" alt="tweniee" /> </p>
 
