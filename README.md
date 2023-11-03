@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Johnson Screen**
 
-- 🌱 I’m currently learning **Nginx**
+- 🌱 I’m currently learning **NestJs**
 
 - 👯 I’m looking to collaborate on [ngx-extended-pdf-viewer](https://pdfviewer.net/extended-pdf-viewer/pages-loaded)
 
-- 💬 Ask me about **Nodejs, Angular, Vuejs, Docker, Aws, CICD**
+- 💬 Ask me about **Nodejs, NestJs, Angular, Vuejs, Docker, Aws, CICD**
 
 - 📫 How to reach me **Abhisheku361@gmail.com**
 
